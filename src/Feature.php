@@ -10,4 +10,9 @@ class Feature
     {
         return self::BRANCH_NAME;
     }
+
+    private function show()
+    {
+        
+    }
 }
